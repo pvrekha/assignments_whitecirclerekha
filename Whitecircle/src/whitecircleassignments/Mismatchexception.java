@@ -1,4 +1,4 @@
-package whitecircleassignments;
+package src.whitecircleassignments;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
@@ -23,6 +23,8 @@ import java.util.Scanner;
 				//System.out.println("Please enter a valid integer input");
 			
 			}while(inputnum);
+			
+			//@Deepinder - Correct
 		}
 	}
 			
